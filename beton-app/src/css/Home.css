@@ -10,6 +10,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     align-items: center;
     padding: 20px;
 }
@@ -135,6 +136,100 @@
     margin: 5px;
     border-radius: 5px;
 }
+
+
+.h-service {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.r-cards {
+    position: relative;
+    margin-bottom: 5rem;
+    width: 400px;
+}
+
+.s-left {
+    margin-top: 10rem;
+    margin-right: 5rem;
+}
+
+.l-cards {
+    position: relative;
+    margin-top: 5rem;
+    width: 400px;
+}
+
+.l-cards span {
+    color: #E93333;
+    font-family: Montserrat Alternates;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.l-cards .span-p {
+    color: #686868;
+    font-family: Montserrat Alternates;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.r-cards span {
+    color: #E93333;
+    font-family: Montserrat Alternates;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.r-cards .span-p {
+    color: #686868;
+    font-family: Montserrat Alternates;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.r-big-p {
+    color: #6D6D6D;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 1rem;
+}
+
+.l-big-p {
+    color: #6D6D6D;
+    font-family: Gilroy;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
